@@ -1,0 +1,17 @@
+# Dependencies
+__pycache__
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env*
+
+# Logs
+*.log
+
+# Certificates and Config Fils
+certs/
+*.toml

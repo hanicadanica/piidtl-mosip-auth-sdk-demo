@@ -1,0 +1,15 @@
+annotated-types==0.7.0
+certifi==2025.1.31
+cffi==1.17.1
+charset-normalizer==3.4.1
+cryptography==43.0.3
+dynaconf==3.2.10
+idna==3.10
+jwcrypto==1.5.6
+mosip-auth-sdk @ git+https://github.com/mosip/ida-auth-sdk.git@f322c59868123c2ef9410b5a3fecfd5dcdfd56af
+pycparser==2.22
+pydantic==2.10.6
+pydantic_core==2.27.2
+requests==2.32.3
+typing_extensions==4.12.2
+urllib3==2.3.0
